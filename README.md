@@ -1,8 +1,8 @@
 <div align="center">
   <img 
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXFpcnBid2NyNXVzYmRrYm15Y3N6Y2Z2NWVmaWZ4OWhhaGhnY3ozdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc0YUJvdtHXX9QRi/giphy.gif" 
-  width="150" 
-  height="150" 
+  width="400" 
+  height="400" 
   style="border-radius: 50%; object-fit: cover;" 
 />
 
