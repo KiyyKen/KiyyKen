@@ -1,156 +1,171 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXFpcnBid2NyNXVzYmRrYm15Y3N6Y2Z2NWVmaWZ4OWhhaGhnY3ozdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc0YUJvdtHXX9QRi/giphy.gif" width="100%" />
-
-# 👋 Hi, I'm Rizky Ariyan
-
-### Full Stack Web Developer in Progress 🚧
-
-*"Fix one bug. Create three new bugs. Repeat."* 😭
+  <img 
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXFpcnBid2NyNXVzYmRrYm15Y3N6Y2Z2NWVmaWZ4OWhhaGhnY3ozdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc0YUJvdtHXX9QRi/giphy.gif" 
+  width="100%"
+/>
 
 </div>
 
----
+###
 
-## 👨‍💻 About Me
+<h1 align="center">Yooo Helloo 😠👊👋</h1>
 
-I'm **Rizky Ariyan** from Indonesia 🇮🇩
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">
+
+I'm <b>Rizky Ariyan</b> from Indonesia 🇮🇩
+
+<br><br>
 
 - 🎓 Final-year Informatics Student
-- 💻 Passionate about Full Stack Web Development
-- 🤖 Currently exploring AI-powered Web Applications & Cyber Security
-- 🌱 Learning Laravel, React, Node.js, and Docker
-- 🚀 Building projects that solve real-world problems
+- 💻 Interested in Full Stack Web Development
+- 🤖 Currently learning AI, Cyber Security, and Software Engineering
+- 🚀 Building real-world projects with Laravel & JavaScript
 - ⚡ I just want to sleep
 
----
+</p>
 
-## 🚀 Featured Projects
+###
 
-### 📦 Smart Distribution System *(Coming Soon)*
-> Web-based wholesale distribution system with AI prediction using C4.5.
+<h3 align="left">🛠 Language and Tools</h3>
 
-**Tech Stack**
-- Laravel
-- MySQL
-- Filament
-- Chart.js
-
----
-
-### 🤖 AI Document Assistant *(Coming Soon)*
-> Upload documents and chat with AI using RAG.
-
-**Tech Stack**
-- React
-- Node.js
-- PostgreSQL
-- Gemini API
-
----
-
-### 🏢 Mini ERP *(Coming Soon)*
-> ERP system for inventory, suppliers, invoices, and reports.
-
----
-
-### 🔐 Cyber Dashboard *(Coming Soon)*
-> Security dashboard with network utilities and threat intelligence.
-
----
-
-## 🛠 Tech Stack
+###
 
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+<img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+
+<img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+
+<img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
 
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+
+<img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+
+<img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+<img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 
 </div>
 
----
+###
 
-## 📊 GitHub Stats
+<h3 align="left">🚀 Current Projects</h3>
 
-<div align="center">
+###
 
-<img src="https://github-readme-stats.vercel.app/api?username=KiyyKen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiyyKen&layout=compact&theme=tokyonight&hide_border=true"/>
+📦 Smart Distribution System (Thesis)
 
-<img src="https://streak-stats.demolab.com?user=KiyyKen&theme=tokyonight&hide_border=true"/>
+🤖 AI Document Assistant (Planned)
 
-</div>
+🏢 Mini ERP (Planned)
 
----
+🔐 Cyber Dashboard (Planned)
 
-## 🐍 Contribution Snake
+</p>
 
-<div align="center">
+###
 
-<img src="https://raw.githubusercontent.com/KiyyKen/KiyyKen/output/snake.svg"/>
+<h3 align="left">🔥 My Stats</h3>
 
-</div>
-
----
-
-## 🌐 Connect with Me
+###
 
 <div align="left">
-
-<a href="https://linkedin.com/in/rizky-ariyan-80b56434b">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
-</a>
-
-<a href="https://discord.com/users/502037030176423936">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
-</a>
-
-<a href="https://instagram.com/rizkyaryn">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
-</a>
-
+  <img src="https://streak-stats.demolab.com?user=KiyyKen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
 
----
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiyyKen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150"/>
 
-## 🌍 Portfolio
-
-Coming Soon...
-
-*(Currently under construction, just like my sleep schedule.)* 😴
-
----
-
-<div align="center">
-
-![](https://visitor-badge.laobi.icu/badge?page_id=KiyyKen.KiyyKen&left_color=black&right_color=blueviolet)
-
-### Thanks for visiting! 👋
-
-*"May your code compile on the first try."*
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiyyKen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150"/>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/KiyyKen/KiyyKen/output/snake.svg" alt="Snake animation"/>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/rizky-ariyan-80b56434b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/rizkyaryn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"/>
+  </a>
+
+  <a href="https://discord.com/users/502037030176423936" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"/>
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KiyyKen.KiyyKen&left_color=black&right_color=darkorchid"/>
+</div>
+
+###
+
+<h3 align="left">🌐 Visit Me</h3>
+
+###
+
+<p align="left">
+  <a href="https://kiyyken.github.io/it-is-me/" target="_blank">
+    https://kiyyken.github.io/it-is-me/
+  </a>
+</p>
+
+###
+
+<p align="center">
+
+<i>"Fix one bug, create three new bugs, then pretend nothing happened."</i> 😭
+
+</p>
