@@ -123,7 +123,7 @@ I'm <b>Rizky Ariyan</b> from Indonesia 🇮🇩
 
 ###
 
-<img src="https://raw.githubusercontent.com/KiyyKen/KiyyKen/output/snake.svg" alt="Snake animation"/>
+<!-- <img src="https://raw.githubusercontent.com/KiyyKen/KiyyKen/output/snake.svg" alt="Snake animation"/> -->
 
 ###
 
