@@ -1,6 +1,6 @@
 <div align="center">
   <img
-  src="https://media.giphy.com/media/4yJvdbraCOoGIX6EXx/giphy.gif" 
+  src="./.github/workflows/tenor.gif" 
   width="100%"
 />
 
