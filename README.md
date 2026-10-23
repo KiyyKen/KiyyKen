@@ -1,14 +1,14 @@
-<div align="center">
+<!-- <div align="center">
   <img 
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXFpcnBid2NyNXVzYmRrYm15Y3N6Y2Z2NWVmaWZ4OWhhaGhnY3ozdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc0YUJvdtHXX9QRi/giphy.gif" 
   width="100%"
 />
 
-</div>
+</div> -->
 
 ###
 
-<h1 align="center">Yooo Helloo 😠👊👋</h1>
+<h1 align="center">Hello All</h1>
 
 ###
 
@@ -19,14 +19,11 @@
 <p align="left">
 
 I'm <b>Rizky Ariyan</b> from Indonesia 🇮🇩
-- 🎓 Final-year Informatics Student
+- 🎓 Computer Science
 - 💻 Interested in Full Stack Web Development
 - 🤖 Currently learning AI, Cyber Security, and Software Engineering
 - 🚀 Building real-world projects with Laravel & JavaScript
-- ⚡ I just want to sleep
-
-</p>
-
+- ⚡ Vibe Coder
 ###
 
 <h3 align="left">🛠 Language and Tools</h3>
