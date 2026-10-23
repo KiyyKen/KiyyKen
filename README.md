@@ -1,10 +1,10 @@
-<!-- <div align="center">
+<div align="center">
   <img 
-  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXFpcnBid2NyNXVzYmRrYm15Y3N6Y2Z2NWVmaWZ4OWhhaGhnY3ozdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc0YUJvdtHXX9QRi/giphy.gif" 
+  src="https://tenor.com/view/bersiaplah-jomok-gif-6076133005253947533" 
   width="100%"
 />
 
-</div> -->
+</div>
 
 ###
 
