@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Hello All</h1>
+<h1 align="center">Здравствуйте | こんにちは | Bonjour</h1>
 
 ###
 
@@ -125,7 +125,7 @@ I'm <b>Rizky Ariyan</b> from Indonesia 🇮🇩
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/rizky-ariyan-80b56434b/" target="_blank">
+  <a href="https://linkedin.com/in/rizky-ariyan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
 
