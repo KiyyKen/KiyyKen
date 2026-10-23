@@ -160,6 +160,6 @@ I'm <b>Rizky Ariyan</b> from Indonesia 🇮🇩
 
 <p align="center">
 
-<i>"Fix one bug, create three new bugs, then pretend nothing happened."</i> 
+<i>"Ini perintah ATMINT"</i> 
 
 </p>
