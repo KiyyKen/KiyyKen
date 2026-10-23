@@ -1,7 +1,7 @@
 <div align="center">
   <img
   src="./.github/workflows/tenor.gif" 
-  width="100%"
+  width="600"
 />
 
 </div>
