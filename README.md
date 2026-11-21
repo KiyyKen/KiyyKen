@@ -160,6 +160,6 @@ I'm <b>Rizky Ariyan</b> from Indonesia 🇮🇩
 
 <p align="center">
 
-<i>"Ini perintah ATMINT"</i> 
+<!-- <i>"Ini perintah ATMINT"</i>  -->
 
 </p>
